@@ -5,6 +5,10 @@ while True:
     print(f'{a}')
     print("ค้อน ","กรรไกร ","กระดาษ ")
     Value = str(input('คุณเลือก : '))
-    if Value != a:
-        print("ผลลัพท์คือ เเพ้")
+    if Value == a:
+        print("ผลลัพท์คือ ชนะ")
         print("------------------ ")
+    else:
+        print('ผลลัพท์ คือ เเพ้')
+        print("------------------ ")
+ 

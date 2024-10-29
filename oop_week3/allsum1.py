@@ -8,3 +8,4 @@ while True:
         print(f'ผลรวมตอนนี้ = {i}')
         print(f'ผลรวมทั้งหมด {i}')
         break
+    
