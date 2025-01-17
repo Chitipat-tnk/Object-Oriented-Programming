@@ -66,8 +66,7 @@ Notebook2.add_stock(20)
 
 Clothes1 = Clothes("T-เชิ้ต", "Clothes")
 Clothes1.add_price(290)
-Clothes1.add_stock(10)
-Clothes1.remove_stock(5)
+Clothes1.add_stock(5)
 
 print(product1.check_product())
 print('-------------------------------------------------------')
